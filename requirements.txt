@@ -1,0 +1,9 @@
+python-dotenv
+torch
+torchaudio
+whisperx
+pyannote.audio
+yt-dlp
+moviepy
+numpy
+soundfile
